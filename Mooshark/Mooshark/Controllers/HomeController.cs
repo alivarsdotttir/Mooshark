@@ -1,4 +1,5 @@
-﻿using System;
+﻿using Mooshark.DAL;
+using System;
 using System.Collections.Generic;
 using System.Linq;
 using System.Web;
@@ -8,6 +9,7 @@ namespace Mooshark.Controllers
 {
     public class HomeController : Controller
     {
+        private ApplicationDbContext db = new ApplicationDbContext(); 
         public ActionResult Index()
         {
             return View();
