@@ -1,5 +1,4 @@
-<<<<<<< HEAD
-C:\Users\Júlía Oddsdóttir\Documents\Vor2016\Verklegt 2\Mooshark\Mooshark\Mooshark\bin\ApplicationInsights.config
+﻿C:\Users\Júlía Oddsdóttir\Documents\Vor2016\Verklegt 2\Mooshark\Mooshark\Mooshark\bin\ApplicationInsights.config
 C:\Users\Júlía Oddsdóttir\Documents\Vor2016\Verklegt 2\Mooshark\Mooshark\Mooshark\bin\roslyn\csc.exe
 C:\Users\Júlía Oddsdóttir\Documents\Vor2016\Verklegt 2\Mooshark\Mooshark\Mooshark\bin\roslyn\Microsoft.Build.Tasks.CodeAnalysis.dll
 C:\Users\Júlía Oddsdóttir\Documents\Vor2016\Verklegt 2\Mooshark\Mooshark\Mooshark\bin\roslyn\Microsoft.CodeAnalysis.CSharp.dll
@@ -80,6 +79,4 @@ C:\Users\Júlía Oddsdóttir\Documents\Vor2016\Verklegt 2\Mooshark\Mooshark\Moos
 C:\Users\Júlía Oddsdóttir\Documents\Vor2016\Verklegt 2\Mooshark\Mooshark\Mooshark\bin\Microsoft.Owin.Security.MicrosoftAccount.xml
 C:\Users\Júlía Oddsdóttir\Documents\Vor2016\Verklegt 2\Mooshark\Mooshark\Mooshark\obj\Debug\Mooshark.dll
 C:\Users\Júlía Oddsdóttir\Documents\Vor2016\Verklegt 2\Mooshark\Mooshark\Mooshark\obj\Debug\Mooshark.pdb
-=======
-C:\Users\Sigurjon\Desktop\Mooshark\Mooshark\Mooshark\Mooshark\obj\Debug\Mooshark.csprojResolveAssemblyReference.cache
->>>>>>> c6e2bb953861bf0bd11f6a7431b03e614ecff536
+C:\Users\Júlía Oddsdóttir\Documents\Vor2016\Verklegt 2\Mooshark\Mooshark\Mooshark\obj\Debug\Mooshark.csprojResolveAssemblyReference.cache
